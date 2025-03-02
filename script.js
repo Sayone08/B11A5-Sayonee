@@ -35,7 +35,7 @@ for (let i = 0; i < buttons.length; i++) {
         //disabling btn
         this.disabled = true;
         this.style.opacity = "0.6";
-        this.style.cursor = "not-allowed";
+        
 
         //Congratulate on finishing all tasks
         if (converted_task === 0) {
